@@ -14,6 +14,8 @@ import Portfolio from "./Components/Portfolio";
 
 import "./styles.css";
 
+import Education from "./Components/Education";
+<Education />;
 /**
  * This object represents your information. The project is set so that you
  * only need to update these here, and values are passed a properties to the
