@@ -34,7 +34,7 @@ const projectList = [
     title: "Home Smart Website",
     description:
       "Together with my fellow stufdents we created a website to help people find their dream homes. We used HTML, CSS, JavaScript and PHP.",
-    url: "",
+    url: "https://natashamoses21.github.io/",
   },
 ];
 
