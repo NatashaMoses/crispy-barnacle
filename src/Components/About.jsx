@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/pink bg.jpg";
+import image from "../images/graybg.jpg";
 
 const imageAltText = "pink marble background";
 
@@ -44,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about technology and how it can be used to solve real world problems. I am also interested in learning new things and I am always looking for opportunities to learn and grow.";
 
 const About = () => {
   return (

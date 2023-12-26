@@ -26,7 +26,7 @@ import Education from "./Components/Education";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Natasha Upendo Moses",
+  name: "Natasha Moses",
   title: "Data Science & AI",
   email: "natmos910@gmail.com",
   gitHub: "NatashaMoses",
