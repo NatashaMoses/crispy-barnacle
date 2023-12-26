@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "/workspaces/crispy-barnacle/src/images/happywoman.webp";
+import image from "../images/happywoman.webp";
 
 const imageAltText = "Woman using her laptop outdoors while smiling";
 
